@@ -1,2 +1,2 @@
 # Angular2
-Angular 2 initial configuration 
+Angular 2 initial configuration ...
